@@ -9,9 +9,9 @@
 
 ## Deskripsi Program
 
-Program ini dibuat untuk mencatat dan mengelola setoran sampah dari warga serta mengonversinya menjadi poin secara otomatis. Program berjalan secara berulang menggunakan menu berbasis teks (terminal) dan menerapkan konsep dasar pemrograman seperti variabel, tipe data List dan Tuple, percabangan (`if-elif-else`), serta perulangan (`while` dan `for`).
+Program ini dibuat untuk mengelola setoran sampah dari warga serta mengkonversinya menjadi poin secara otomatis. Program berjalan secara berulang dan juga menerapkan program yang telah diajarkan oleh asisten praktisi yaitu variabel, tipe data List dan Tuple, percabangan (`if-elif-else`), serta perulangan (`while` dan `for`).
 
-Program ini sudah memiliki fitur CRUD lengkap:
+Program ini saya buat memiliki fitur CRUD:
 1. **Create**: Menambahkan data setoran sampah baru.
 2. **Read**: Menampilkan seluruh data setoran yang tersimpan dan menghitung total akumulasi berat serta poin.
 3. **Update**: Mengubah data setoran yang sudah ada jika ada kesalahan.
